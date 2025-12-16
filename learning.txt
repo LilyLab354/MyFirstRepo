@@ -1,4 +1,4 @@
-What i have learnt from this course
+What I have learnt from this course
 I have learnt how to navigate the github,create and manage new repositories,commits and commits.
 I have also learnt how to create and manage branches,pull requests,conduct code reviews 
 and also learnt about common collaboration workflows 
