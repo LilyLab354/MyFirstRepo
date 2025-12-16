@@ -1,3 +1,0 @@
-I have learn how to navigate the github,create and manage new repositories,commits and commits.
-I have ealso learnt how to create and manage branches,pull requests,conducting code reviews 
-and also learnt about common collaboration workflows 
